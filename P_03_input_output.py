@@ -10,10 +10,12 @@ halve = fav_num / 2
 square = fav_num * fav_num
 
 # Greet the user
-print(f"Hi {username}, your favourite number is {fav_num}")
-print(f"Double {fav_num} is {double}, ")
-print(f"Halve {fav_num} is {halve}, ")
-print(f"Square {fav_num} is {square}, ")
+print(f"\nHi {username}, your favourite number is {fav_num}")
 
 # Output the results of doubling, halving and
 # squaring their favourite integer
+print(f"Double {fav_num} is {double}, ")
+print(f"Halve {fav_num} is {halve}, ")
+print(f"{fav_num} squared is {square} ")
+print()
+print("Have a nice day. ")
