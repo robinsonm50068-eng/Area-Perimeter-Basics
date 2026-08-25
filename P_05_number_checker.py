@@ -16,7 +16,7 @@ def num_check(question):
                 print(error)
 
         except ValueError:
-            print(error)\
+            print(error)
 
 
 # Main Routine Goes Here
