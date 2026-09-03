@@ -1,0 +1,1 @@
+# ask users for file type (interger / image / text / xxx)
